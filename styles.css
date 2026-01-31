@@ -11,12 +11,19 @@ body {
   
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c096dd2aa94e8937c3102b286d6e78c2ea4c2b09
 .container {
   background: rgba(150, 150, 150, 0.268);
   backdrop-filter: blur(2px);
   border-radius: 15px;
+<<<<<<< HEAD
   padding: 30px;
+=======
+  padding: 40px;
+>>>>>>> c096dd2aa94e8937c3102b286d6e78c2ea4c2b09
   max-width: 550px;
   max-height: 550px;
   height: 100%;
@@ -97,6 +104,7 @@ button:hover {
 }
 
 .stats {
+<<<<<<< HEAD
   margin-top: 30px;
   font-size: 1.1rem;
   display: flex;
@@ -113,6 +121,14 @@ button:hover {
 .highlight {
   color: #ffd900e4;
   
+=======
+  margin-top: 20px;
+  font-size: 1.1rem;
+}
+
+.highlight {
+  color: #ffd700;
+>>>>>>> c096dd2aa94e8937c3102b286d6e78c2ea4c2b09
 }
 header {
   width: 100%;
@@ -266,6 +282,7 @@ footer{
 .footer2 {
   order: 1;
 }
+<<<<<<< HEAD
 }
 #input-easy, #input-moderate, #input-hard{
   color: black;
@@ -286,6 +303,11 @@ footer{
 }
 .level-btn{
   font-size: 0.8rem;
+=======
+
+
+
+>>>>>>> c096dd2aa94e8937c3102b286d6e78c2ea4c2b09
 }
 
 
